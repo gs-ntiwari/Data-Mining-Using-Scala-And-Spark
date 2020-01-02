@@ -1,0 +1,23 @@
+;set _root_.scala.collection.Seq(shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/t7/pnqx_hbn7ks786vnz99pmp780000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers, resolveSbtClassifiers");apply -cp "/Users/nishatiwari/Library/Application Support/IdeaIC2018.1/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+exit
+;set _root_.scala.collection.Seq(shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/t7/pnqx_hbn7ks786vnz99pmp780000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers, resolveSbtClassifiers");apply -cp "/Users/nishatiwari/Library/Application Support/IdeaIC2018.1/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+compile
+test
+submit nisha.bhumca08@gmail.com g0sUck9jF673mqlx
+compile
+test
+submit nisha.bhumca08@gmail.com g0sUck9jF673mqlx
+compile
+test
+submit nisha.bhumca08@gmail.com C33cWGrGrazua2T1
+submit nisha.bhumca08@gmail.com NV7MeSxuri4LLaST
+compile
+test
+submit nisha.bhumca08@gmail.com 3VF08mVP1Uyx6RSe
+compile
+test
+;set _root_.scala.collection.Seq(shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/t7/pnqx_hbn7ks786vnz99pmp780000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers, resolveSbtClassifiers");apply -cp "/Users/nishatiwari/Library/Application Support/IdeaIC2018.1/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+exit
+compile
+submit nisha.bhumca08@gmail.com aqzi3jRFkYdZLcmA
+submit nisha.bhumca08@gmail.com CquOQOledromxwsH
